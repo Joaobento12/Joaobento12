@@ -1,7 +1,7 @@
 ## ola! bem vindo/a a minha pagina do git hub 
 ### meu nome e joão bento é meu nickname: joaobento12
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?userneme=joaobento12&color=violete alt="profile views"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?userneme=joaobento12&color=violete" alt="profile views"/> </p>
 
 - atualmente estou trabalhando na enel 
 

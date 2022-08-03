@@ -15,11 +15,15 @@
 
 - fato engraçado sou um pegador 
 
-<br><br>
+<br><br> 
 
-<a href="https://www.linkedin.com/in/joao-bento-026b246" target"_blank">
-	<img src="https://img.shields.io/badge/-joaobento12-05122A?style=flat&logo=linkedin alt="linkedin"/>
+<p align="left" style="background:green">
+<a href="https://www.linkedin.com/in/joao-bento-026b246" target="_blank">
+	<img align="center" src="https://img.shields.io/badge/-joaobento12-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+</p> 
+
+
 
 
 
